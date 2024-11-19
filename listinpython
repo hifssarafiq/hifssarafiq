@@ -1,1 +1,37 @@
-
+#list 
+my_team = ["pakistan","india", 1,2,3,"nepal"]
+my_team[5]="saudia"
+print(my_team)
+#list append
+my_team = ["pakistan","india", 1,2,3,"nepal"]
+my_team.append ("saudia")
+print(my_team)
+#list insert
+my_team = ["pakistan","india",1,2,3,"nepal"]
+my_team.insert(5,4)
+my_team.insert(6,"germany")
+print(my_team)
+#list pop remove iteam by index
+my_team1 =["lion","cat","dog","tiger","wolf","bear","kangaroo"]
+my_team1.pop(1)
+print(my_team1)
+#remove iteam by value
+my_team1.remove("bear")
+print(my_team1)
+#delete iteam by index
+del my_team1[3]
+print(my_team1)
+#list concntenation
+list1 = [1,2,3]
+list2 = [4,5,6]
+list3 = [6,7,8]
+result =list1+list2+list3
+print(result)
+#repeation
+list4 = [1,2,3]
+result1 = list4*3
+print(result1)
+#slicing
+list5 = [100,200,300,400,500]
+a=list5[:-1]
+print(a)

@@ -1,4 +1,4 @@
-Hello! 👋 I'm a junior data analyst named Hifsa Rafiq.
+Hello! 👋 I'm a junior data analyst named Hifza Rafiq.
 I have a strong interest in data and its ability to provide insights. My areas of expertise as a Junior Data Analyst are data wrangling, analysis, and visualization. I process, analyze, and show data in meaningful ways using Python and well-known tools like Pandas, NumPy, Matplotlib, and Seaborn. I like taking on data challenges, and I'm constantly picking up new methods to hone my analytical abilities.
 
 
